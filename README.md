@@ -34,10 +34,10 @@ python genetic_algorithm.py --population-size 100 --mutation-rate 0.01
 
 
 ## Contributing
-Guidelines for contributing to this project, if applicable.
+
 
 ## License
-Specify the license under which this code is released.
+
 
 ## Contact
-Your contact information for users to reach out with questions or collaborations.
+
